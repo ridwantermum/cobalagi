@@ -1,0 +1,1 @@
+mencoba tanpa henti.. sampai berhasil

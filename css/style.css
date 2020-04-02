@@ -1,0 +1,38 @@
+h1 {
+	font-family: verdana;
+	font-size: 25px;
+	font-variant: small-caps;
+	color: green;
+
+}
+
+h2 {
+	font-family: arial,verdana, roboto;
+}
+
+p {
+	font-family: times new roman;
+	font-style: italic;
+}
+
+tr {
+	font-family: roboto;
+}
+
+a {
+	font-family: verdana;
+	font-size: 11px; 
+}
+
+strong {
+	font-weight: bolder;
+	font-family: roboto;
+	background-color: white;
+	color : green;
+	padding: 3px
+}
+
+body{
+	background-color: skyblue;
+	background-image: url(sawit.png);
+}
